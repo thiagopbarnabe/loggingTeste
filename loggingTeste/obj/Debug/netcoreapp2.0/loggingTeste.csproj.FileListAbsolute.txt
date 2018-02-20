@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\bin\Debug\netcoreapp2.0\loggingTeste.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\bin\Debug\netcoreapp2.0\loggingTeste.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\bin\Debug\netcoreapp2.0\loggingTeste.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\bin\Debug\netcoreapp2.0\loggingTeste.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\bin\Debug\netcoreapp2.0\loggingTeste.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\loggingTeste\loggingTeste\obj\Debug\netcoreapp2.0\loggingTeste.pdb
